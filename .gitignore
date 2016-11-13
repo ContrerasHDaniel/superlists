@@ -1,4 +1,8 @@
 db.sqlite3
 __pycache__
 *.pyc
+<<<<<<< HEAD
 chromedriver.exe
+=======
+chromedriver.exe
+>>>>>>> d75c8a2f4d38788283e1c3a35b7987313da4c1e4
